@@ -1,0 +1,15 @@
+C:\Users\ILYA\Desktop\ArraysPart2\RandomNumbers\bin\Debug\net6.0\RandomNumbers.exe
+C:\Users\ILYA\Desktop\ArraysPart2\RandomNumbers\bin\Debug\net6.0\RandomNumbers.deps.json
+C:\Users\ILYA\Desktop\ArraysPart2\RandomNumbers\bin\Debug\net6.0\RandomNumbers.runtimeconfig.json
+C:\Users\ILYA\Desktop\ArraysPart2\RandomNumbers\bin\Debug\net6.0\RandomNumbers.dll
+C:\Users\ILYA\Desktop\ArraysPart2\RandomNumbers\bin\Debug\net6.0\RandomNumbers.pdb
+C:\Users\ILYA\Desktop\ArraysPart2\RandomNumbers\obj\Debug\net6.0\RandomNumbers.csproj.AssemblyReference.cache
+C:\Users\ILYA\Desktop\ArraysPart2\RandomNumbers\obj\Debug\net6.0\RandomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ILYA\Desktop\ArraysPart2\RandomNumbers\obj\Debug\net6.0\RandomNumbers.AssemblyInfoInputs.cache
+C:\Users\ILYA\Desktop\ArraysPart2\RandomNumbers\obj\Debug\net6.0\RandomNumbers.AssemblyInfo.cs
+C:\Users\ILYA\Desktop\ArraysPart2\RandomNumbers\obj\Debug\net6.0\RandomNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ILYA\Desktop\ArraysPart2\RandomNumbers\obj\Debug\net6.0\RandomNumbers.dll
+C:\Users\ILYA\Desktop\ArraysPart2\RandomNumbers\obj\Debug\net6.0\refint\RandomNumbers.dll
+C:\Users\ILYA\Desktop\ArraysPart2\RandomNumbers\obj\Debug\net6.0\RandomNumbers.pdb
+C:\Users\ILYA\Desktop\ArraysPart2\RandomNumbers\obj\Debug\net6.0\RandomNumbers.genruntimeconfig.cache
+C:\Users\ILYA\Desktop\ArraysPart2\RandomNumbers\obj\Debug\net6.0\ref\RandomNumbers.dll
