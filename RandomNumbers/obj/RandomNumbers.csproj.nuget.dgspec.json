@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ILYA\\Desktop\\ArraysPart2\\RandomNumbers\\RandomNumbers.csproj": {}
+    "c:\\Users\\ILYA\\Desktop\\ArraysPart2\\RandomNumbers\\RandomNumbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ILYA\\Desktop\\ArraysPart2\\RandomNumbers\\RandomNumbers.csproj": {
+    "c:\\Users\\ILYA\\Desktop\\ArraysPart2\\RandomNumbers\\RandomNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ILYA\\Desktop\\ArraysPart2\\RandomNumbers\\RandomNumbers.csproj",
+        "projectUniqueName": "c:\\Users\\ILYA\\Desktop\\ArraysPart2\\RandomNumbers\\RandomNumbers.csproj",
         "projectName": "RandomNumbers",
-        "projectPath": "C:\\Users\\ILYA\\Desktop\\ArraysPart2\\RandomNumbers\\RandomNumbers.csproj",
+        "projectPath": "c:\\Users\\ILYA\\Desktop\\ArraysPart2\\RandomNumbers\\RandomNumbers.csproj",
         "packagesPath": "C:\\Users\\ILYA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ILYA\\Desktop\\ArraysPart2\\RandomNumbers\\obj\\",
+        "outputPath": "c:\\Users\\ILYA\\Desktop\\ArraysPart2\\RandomNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ILYA\\AppData\\Roaming\\NuGet\\NuGet.Config"
